@@ -1,3 +1,5 @@
 # AuChip
 
-Just an attempt to make a chip 8 emulator in Processing (Java).
+A relatively simple Chip8 interpreter written in Processing Java.
+
+Supports - Chip8, SuperChip, XO-Chip
